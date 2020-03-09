@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require "bundler/setup"
-require "cohort cli"
-projectfadi:: cli.new. start
