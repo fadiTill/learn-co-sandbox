@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "simple cli app open house"
   spec.description   = "use API data to get a list of open houses"
-  spec.homepage      = http://gitub/ repo url
+  spec.homepage      = git@github.com:fadiTill/projectfadi.gits
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
@@ -19,8 +19,8 @@ Gem::Specification.new do |spec|
     spec.metadata["allowed_push_host"] = "http://mygemserver.com'"
 
     spec.metadata["homepage_uri"] = spec.homepage
-    spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-    spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+    spec.metadata["source_code_uri"] = git@github.com:fadiTill/projectfadi.git
+    spec.metadata["changelog_uri"] = git@github.com:fadiTill/projectfadi.git
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
       "public gem pushes."
